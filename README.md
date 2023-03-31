@@ -1,16 +1,29 @@
-# food_delivery
+# Food Delivery Project
 
-A new Flutter project.
+This is a food delivery application developed using Flutter framework. It allows users to browse different restaurants, select their favorite dishes, and order food for delivery to their location.
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+This project uses the following packages:
 
-A few resources to get you started if this is your first Flutter project:
+- [getX](https://pub.dev/packages/get)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Custom Design](assets/image/design.png)
+
+## Setup
+
+To set up this project, follow these steps:
+
+1. Clone the repository to your local machine using git clone (https://github.com/username/food-delivery.git)
+2. Install dependencies by running `flutter pub get`
+   <!-- 3. Create a new Firebase project and enable authentication, Cloud Firestore, and Cloud Functions -->
+   <!-- 3. Add the Firebase configuration files to the project -->
+   <!-- Enable the Google Maps API and add the API key to the project -->
+   <!-- Enable the Stripe API and add the API key to the project -->
+3. Run the application using `flutter run`
+
+## License
+
+This project is licensed under the GPL-3.0 license. See the LICENSE file for more information.
